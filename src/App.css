@@ -10,34 +10,34 @@
 
 /****** background  *********/
 .overcarsclouds{
-   background-image: url('./assets/img/overclouds.jpg');  
+   background-image: url('../public/img/overclouds.jpg');  
 }
 .clearsky{
-  background-image: url('./assets/img/clearsky.jpg');  
+  background-image: url('../public/img/clearsky.jpg');  
 }
 .fewclouds{
-  background-image: url('./assets/img/fewclouds.jpg');  
+  background-image: url('../public/img/fewclouds.jpg');  
 }
 .brokenclouds{
-  background-image: url('./assets/img/broken-clouds.jpg');  
+  background-image: url('../public/img/broken-clouds.jpg');  
 }
 .showerrain{
-  background-image: url('./assets/img/showrain.jpg');  
+  background-image: url('../public/img/showrain.jpg');  
 }
 .rain{
-  background-image: url('./assets/img/rain.jpg');  
+  background-image: url('../public/img/rain.jpg');  
 }
 .thunderstorm{
-  background-image: url('./assets/img/catatumbo.jpg');  
+  background-image: url('../public/img/catatumbo.jpg');  
 }
 .snow{
-  background-image: url('./assets/img/snow.jpg');  
+  background-image: url('../public/img/snow.jpg');  
 }
 .scatterdclouds{
-  background-image: url('./assets/img/scatteredcloud.jpg');  
+  background-image: url('../public/img/scatteredcloud.jpg');  
 }
 .default{
-  background-image:url('./assets/img/fondocarga.jpg');
+  background-image:url('../public/img/fondocarga.jpg');
 }
 /****** Load *********/
 .load{
